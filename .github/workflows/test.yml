@@ -25,8 +25,8 @@ jobs:
           - rb3gen2-core-kit
           - qcs8300-ride-sx
           - qcs9100-ride-sx
-          - qcom-armv8a
-          - qcom-armv7a
+          #- qcom-armv8a
+          #- qcom-armv7a
           - rb1-core-kit
         distro:
           - name: nodistro
